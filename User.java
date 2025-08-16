@@ -12,6 +12,12 @@ System.out.println("Maximus Decimous Meradious");
 
 //Bug (102)
 System.out.println("");
+
+//BUg (104)
+"HI";
+
+//bug 105
+"Bye";
   
  }
  
