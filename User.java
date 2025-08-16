@@ -4,7 +4,8 @@ class Mahesh{
 
   System.out.println("Mahesh 007");
 
-  
+  //bug(103)
+  System.out.println("James Bond");
  }
  
 }
